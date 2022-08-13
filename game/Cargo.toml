@@ -1,0 +1,59 @@
+[package]
+name = "game"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+# Local crates
+json_asset_loader = { path = "../json_asset_loader" }
+bevy_sepax2d = { path = "../bevy_sepax2d" }
+bevy_ecs_ldtk = { path = "../bevy_ecs_ldtk" }
+
+#Bevy Specific stuff
+bevy = { version = "0.8", default-features = false, features = [ 
+    # Bevy functionality:
+    "bevy_asset",           # Assets management
+    "bevy_scene",           # Scenes management
+    #"bevy_gilrs",           # Gamepad input support
+    "bevy_audio",           # Builtin audio
+    "bevy_winit",           # Window management
+    "animation",            # Animation support
+    #"x11",                  # Linux: Support X11 windowing system
+    #"wayland",              # Linux: Support Wayland windowing system
+    "filesystem_watcher",   # Asset hot-reloading
+    "subpixel_glyph_atlas", # Subpixel antialiasing for text/fonts
+    "serialize",            # Support for `serde` Serialize/Deserialize
+
+    # Bevy Render
+    "bevy_render",
+    "bevy_core_pipeline",
+    "bevy_sprite",
+    "bevy_text",
+    "bevy_ui",
+
+    #File formats
+    #"jpeg",
+    "png",
+    "mp3",
+    "wav",
+] }
+
+# Game specific stuff
+iyes_loopless = "0.7.0"
+
+# This is to get an icon onto the window
+image = "0.23.14"
+winit = "0.26.1"
+
+rand = "0.8.3"
+
+[build-dependencies]
+embed-resource = "1.4"
+
+#for dev: cargo build
+#for release: cargo build --release --no-default-features
+[features]
+#"bevy/trace", "bevy/trace_tracy", "bevy/trace_chrome", "bevy/wgpu_trace"
+#default = ["bevy/dynamic"]

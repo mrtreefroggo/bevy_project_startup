@@ -1,0 +1,198 @@
+{ "frames": [
+   {
+    "filename": "DinoSprites #idle 0.ase",
+    "frame": { "x": 0, "y": 0, "w": 17, "h": 18 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 17, "h": 18 },
+    "sourceSize": { "w": 24, "h": 24 },
+    "duration": 100
+   },
+   {
+    "filename": "DinoSprites #idle 1.ase",
+    "frame": { "x": 17, "y": 0, "w": 17, "h": 18 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 17, "h": 18 },
+    "sourceSize": { "w": 24, "h": 24 },
+    "duration": 100
+   },
+   {
+    "filename": "DinoSprites #idle 2.ase",
+    "frame": { "x": 34, "y": 0, "w": 17, "h": 18 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 17, "h": 18 },
+    "sourceSize": { "w": 24, "h": 24 },
+    "duration": 100
+   },
+   {
+    "filename": "DinoSprites #idle 3.ase",
+    "frame": { "x": 51, "y": 0, "w": 17, "h": 18 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 17, "h": 18 },
+    "sourceSize": { "w": 24, "h": 24 },
+    "duration": 100
+   },
+   {
+    "filename": "DinoSprites #move 0.ase",
+    "frame": { "x": 0, "y": 18, "w": 17, "h": 18 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 17, "h": 18 },
+    "sourceSize": { "w": 24, "h": 24 },
+    "duration": 100
+   },
+   {
+    "filename": "DinoSprites #move 1.ase",
+    "frame": { "x": 17, "y": 18, "w": 17, "h": 18 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 17, "h": 18 },
+    "sourceSize": { "w": 24, "h": 24 },
+    "duration": 100
+   },
+   {
+    "filename": "DinoSprites #move 2.ase",
+    "frame": { "x": 34, "y": 18, "w": 17, "h": 18 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 17, "h": 18 },
+    "sourceSize": { "w": 24, "h": 24 },
+    "duration": 100
+   },
+   {
+    "filename": "DinoSprites #move 3.ase",
+    "frame": { "x": 51, "y": 18, "w": 17, "h": 18 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 17, "h": 18 },
+    "sourceSize": { "w": 24, "h": 24 },
+    "duration": 100
+   },
+   {
+    "filename": "DinoSprites #move 4.ase",
+    "frame": { "x": 68, "y": 18, "w": 17, "h": 18 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 17, "h": 18 },
+    "sourceSize": { "w": 24, "h": 24 },
+    "duration": 100
+   },
+   {
+    "filename": "DinoSprites #move 5.ase",
+    "frame": { "x": 85, "y": 18, "w": 17, "h": 18 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 17, "h": 18 },
+    "sourceSize": { "w": 24, "h": 24 },
+    "duration": 100
+   },
+   {
+    "filename": "DinoSprites #hurt 0.ase",
+    "frame": { "x": 0, "y": 36, "w": 17, "h": 18 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 17, "h": 18 },
+    "sourceSize": { "w": 24, "h": 24 },
+    "duration": 1000
+   },
+   {
+    "filename": "DinoSprites #hurt 1.ase",
+    "frame": { "x": 17, "y": 36, "w": 17, "h": 18 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 17, "h": 18 },
+    "sourceSize": { "w": 24, "h": 24 },
+    "duration": 100
+   },
+   {
+    "filename": "DinoSprites #hurt 2.ase",
+    "frame": { "x": 34, "y": 36, "w": 17, "h": 18 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 17, "h": 18 },
+    "sourceSize": { "w": 24, "h": 24 },
+    "duration": 100
+   },
+   {
+    "filename": "DinoSprites #hurt 3.ase",
+    "frame": { "x": 51, "y": 36, "w": 17, "h": 18 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 17, "h": 18 },
+    "sourceSize": { "w": 24, "h": 24 },
+    "duration": 100
+   },
+   {
+    "filename": "DinoSprites #jump 0.ase",
+    "frame": { "x": 0, "y": 54, "w": 17, "h": 18 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 17, "h": 18 },
+    "sourceSize": { "w": 24, "h": 24 },
+    "duration": 100
+   },
+   {
+    "filename": "DinoSprites #jump 1.ase",
+    "frame": { "x": 17, "y": 54, "w": 17, "h": 18 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 17, "h": 18 },
+    "sourceSize": { "w": 24, "h": 24 },
+    "duration": 100
+   },
+   {
+    "filename": "DinoSprites #landed 0.ase",
+    "frame": { "x": 0, "y": 72, "w": 17, "h": 18 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 17, "h": 18 },
+    "sourceSize": { "w": 24, "h": 24 },
+    "duration": 100
+   },
+   {
+    "filename": "DinoSprites #landed 1.ase",
+    "frame": { "x": 17, "y": 72, "w": 17, "h": 18 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 17, "h": 18 },
+    "sourceSize": { "w": 24, "h": 24 },
+    "duration": 100
+   },
+   {
+    "filename": "DinoSprites #falling 0.ase",
+    "frame": { "x": 0, "y": 90, "w": 17, "h": 18 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 17, "h": 18 },
+    "sourceSize": { "w": 24, "h": 24 },
+    "duration": 100
+   },
+   {
+    "filename": "DinoSprites #falling 1.ase",
+    "frame": { "x": 17, "y": 90, "w": 17, "h": 18 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 17, "h": 18 },
+    "sourceSize": { "w": 24, "h": 24 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.2.39-x64",
+  "format": "I8",
+  "size": { "w": 102, "h": 108 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "idle", "from": 0, "to": 3, "direction": "pingpong" },
+   { "name": "move", "from": 4, "to": 9, "direction": "pingpong" },
+   { "name": "hurt", "from": 10, "to": 13, "direction": "forward" },
+   { "name": "jump", "from": 14, "to": 15, "direction": "forward" },
+   { "name": "landed", "from": 16, "to": 17, "direction": "forward" },
+   { "name": "falling", "from": 18, "to": 19, "direction": "forward" }
+  ]
+ }
+}
